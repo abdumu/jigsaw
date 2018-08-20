@@ -10,6 +10,10 @@ This is a forked version of [Jigsaw] (https://github.com/tightenco/jigsaw) that'
 - If you want less memory consumption (more memory consumption leads to build crashes).
 - If you build your files on production.
 
+### How to use
 
-Check out http://jigsaw.tighten.co/docs/installation for documentation.
+Check out http://jigsaw.tighten.co/docs/installation for installation instructions, replace number 2 step's command with: 
+```
+composer require abdumu/jigsaw
+```
 
